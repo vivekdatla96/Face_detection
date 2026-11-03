@@ -14,3 +14,7 @@ venv/
 *_faces.*
 assets/sample_face.png
 .DS_Store
+
+# Project-local tooling and generated previews
+.tools/
+outputs/
